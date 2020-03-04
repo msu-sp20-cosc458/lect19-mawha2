@@ -17,4 +17,4 @@ jobs:
       #- run:
           #name: deploy to heroku
           #command: |
-          #  git push https://heroku:$8332667f-53c0-4206-9fb4-94c970699691@git.heroku.com/$HEROKU_APP_NAME.git master
+          #  git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git master
