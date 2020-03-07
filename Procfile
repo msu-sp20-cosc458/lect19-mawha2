@@ -1,0 +1,1 @@
+web: python -m tests.unit_tests
